@@ -1,6 +1,4 @@
-Certainly! Here is the README with the steps arranged in a logical order:
-
-## Getting Started
+Getting Started
 
 ### 1. Initialize Prisma
 
